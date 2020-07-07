@@ -1,3 +1,3 @@
 def parrot(string)
-  puts string 
+  puts string = 
 end
