@@ -1,6 +1,11 @@
 def parrot(string = "Squawk!")
-  puts string 
+  puts string
+  string 
 end
+puts "line 6"
+parrot
+puts "line 7"
+parrot("estefano")
 
 
 
